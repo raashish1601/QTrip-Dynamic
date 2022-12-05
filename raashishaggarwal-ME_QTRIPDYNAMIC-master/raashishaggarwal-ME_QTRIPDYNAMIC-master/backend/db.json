@@ -1718,26 +1718,7 @@
     }
   ],
   "reservations": [
-    {
-      "name": "Raashish",
-      "date": "2022-06-19T00:00:00.000Z",
-      "person": "2",
-      "adventure": "3366378787",
-      "adventureName": "Rstangbe",
-      "price": 5924,
-      "id": "5d6ed31003a443ef",
-      "time": "Sun Jun 12 2022 15:21:44 GMT+0530 (India Standard Time)"
-    },
-    {
-      "name": "Raashish",
-      "date": "2022-06-23T00:00:00.000Z",
-      "person": "2",
-      "adventure": "1773524915",
-      "adventureName": "Fort Sion",
-      "price": 5372,
-      "id": "ea72ace98cb2528f",
-      "time": "Sun Jun 12 2022 15:54:11 GMT+0530 (India Standard Time)"
-    }
+    
   ]
 }
   
